@@ -1,0 +1,14 @@
+sunday - activation functions, get diffusion coeff with activation function plots
+monday - number of data points, sampling study - look at diffusion coeff as well as concentration
+tuesday - parallilisation effect
+wednesday - finish diffusion coefficient plots
+thursday - make sure that everything relates to diffusion coefficient too, get plots for initial condition part
+friday - get final plots and write about RESULTS AND ANALYSIS FINISHED
+
+weekend
+
+monday - discussion
+
+weekend
+
+monday - future work/other waffle

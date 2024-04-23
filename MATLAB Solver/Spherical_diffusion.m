@@ -1,7 +1,7 @@
 clc;
 clear;
 % close all;
-
+tic
 t_all = 400;
 
 delta_t = 1;
@@ -31,3 +31,5 @@ plot(rad, cs_all(:,101));
 plot(rad, cs_all(:,201));
 plot(rad, cs_all(:,301));
 plot(rad, cs_all(:,401));
+
+toc
